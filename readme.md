@@ -1,6 +1,8 @@
 # dspy-neo4j-knowledge-graph
 LLM-driven automated knowledge graph construction from text using DSPy and Neo4j.
 
+![Knowledge Graph Example](./example.png)
+
 ## Project Structure
 ```sh
 dspy-neo4j-knowledge-graph/
